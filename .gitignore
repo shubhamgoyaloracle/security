@@ -16,3 +16,7 @@ data-management-library/autonomous-database/autonomous-data-warehouse_PRIOR TO S
 *.iml
 data-management-library/autonomous-database/shared/adb-auto-scaling/images/send to Nilay.png
 *.bak
+iam-upgrade/.DS_Store
+oci-security-advisor/.DS_Store
+oig-upgrade/.DS_Store
+secureoracle/.DS_Store
